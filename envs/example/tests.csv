@@ -1,0 +1,6 @@
+Connection-Component,TargetAccount,TargetAccountAddress,TargetAccountSafe,TargetServer,HoldSec,Retries,Enabled,ExpectedTitle,TargetAccountID
+PSM-RDP,windows-admin,server01.example.com,WindowsTargets,,150,1,yes,Program Manager,12_34
+PSM-SSH,unix-user,unix01.example.com,UnixTargets,,150,1,yes,,
+PSM-WinScp,unix-user,unix01.example.com,UnixTargets,,150,1,yes,,12_35
+PSM-WebApp,web-user@example.com,https://app.example.com,WebTargets,app.example.com,150,1,yes,,12_36
+PSM-RDP,,,,,150,1,no,,12_37

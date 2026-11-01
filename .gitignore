@@ -1,0 +1,7 @@
+envs/*
+!envs/example/
+logs/
+results/
+dist/
+*.pfx
+*.bak*
